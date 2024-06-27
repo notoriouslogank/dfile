@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Applications=('htop' 'git' 'tmux' 'ranger' 'neofetch' 'curl' 'wget' 'snapd' 'net-tools' 'nmon' 'glances' 'zsh' 'unzip')
+Applications=('htop' 'git' 'tmux' 'ranger' 'neofetch' 'curl' 'wget' 'snapd' 'net-tools' 'nmon' 'glances' 'zsh' 'unzip' 'lsd' 'tcptrack')
 
 setup() {
     clear
